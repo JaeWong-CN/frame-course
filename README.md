@@ -1,5 +1,5 @@
-# react-course
-详解React.js各类API、源码及最佳实践
+# frame-course
+详解各类框架的API、源码及最佳实践
 
 # 欢迎贡献
 欢迎大家进行内容贡献、纠错😀
